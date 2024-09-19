@@ -10,7 +10,7 @@
 - [License](#license)
 
 ## Introduction
-Form validation is a crucial aspect of web development, ensuring that user input is accurate and meets the required criteria. In this project, we've utilized the Formik library to manage the form state and the Yup library to define the validation schema.
+Signup validation is a crucial aspect of web development, ensuring that user input is accurate and meets the required criteria. In this project, we've utilized the Formik library to manage the form state and the Yup library to define the validation schema.
 
 Formik provides a set of tools and abstractions to simplify the process of working with forms in React, while Yup is a schema validation library that allows you to define the validation rules for your form fields.
 
